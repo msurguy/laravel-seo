@@ -29,7 +29,7 @@
 
             <div class="collapse navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://wp.me/p1Zx0U-Aq" target="_blank">Tutorial</a></li>
+                <li><a href="http://maxoffsky.com/code-blog/using-polymorphic-relationships-of-laravel-for-seo-content/" target="_blank">Tutorial</a></li>
 
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admin <b class="caret"></b></a>
@@ -48,7 +48,7 @@
       <footer>
         <div class="row">
           <div class="col-md-12">
-            Created by <a href="http://maxoffsky.com" target="_blank">Maks</a> | <a href="http://wp.me/p1Zx0U-Aq" target="_blank">Tutorial</a>
+            Created by <a href="http://maxoffsky.com" target="_blank">Maks</a> | <a href="http://maxoffsky.com/code-blog/using-polymorphic-relationships-of-laravel-for-seo-content/" target="_blank">Tutorial</a>
           </div>
         </div>
       </footer>

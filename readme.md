@@ -1,7 +1,5 @@
 ## Laravel SEO admin
 
-See demo at: http://demos.maxoffsky.com/shop-seo/admin/seo?type=products
-
 This application demonstrates usage of polymorphic relationships described at (http://maxoffsky.com/code-blog/using-polymorphic-relationships-of-laravel-for-seo-content/) for SEO data of your application.
 
 The admin panel for seo is at "admin/seo" URL (relative to the application's root)
